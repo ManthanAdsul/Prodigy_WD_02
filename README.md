@@ -1,6 +1,6 @@
 # Stopwatch Web Application ⏱️🚀  
 
-Built a simple and interactive **stopwatch web application** time tracking features. 
+Built a simple and interactive **stopwatch web application** with time-tracking features. 
 
 ## 🚀 Project Overview
 This interactive and user-friendly **stopwatch** allows users to track time accurately with essential features like lap tracking, start/pause functionality, and a smooth UI experience⏱️🚀 .  
