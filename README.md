@@ -26,6 +26,3 @@ Check out the project on GitHub: https://github.com/ManthanAdsul/Stopwatch-Web-A
 
 ## 🔗Linkedin:
 Connect with me on Linkedin: https://www.linkedin.com/in/manthan-adsul/
-
----
-💡 *If you like this project, feel free to star ⭐ the repository and connect with me on LinkedIn!*  
